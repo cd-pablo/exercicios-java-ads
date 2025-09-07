@@ -1,4 +1,4 @@
-public class Main {
+public class ex0 {
     public static void main(String[] args) {
 
         //int[] idades ={32,42,55,13,52};   <- ja atribuido
