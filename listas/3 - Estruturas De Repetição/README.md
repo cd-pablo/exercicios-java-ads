@@ -1,12 +1,5 @@
 # Exercícios - Repetição
 
-## Questões para programar
-**Tecnologia em Análise e Desenvolvimento de Sistemas**  
-**Algoritmos e Programação**  
-Prof. Leandro Martins Dallanora  
-
-### Estruturas de repetição
-
 1. Escreva um programa em Java que exiba os números de 1 a 10 utilizando um laço `while`.
 
 2. Crie um programa que exiba o seguinte menu até que o usuário escolha a opção 0:

@@ -1,39 +1,39 @@
-# Questões para programar
+# Exercícios - Vetores
 
-# Arrays Unidimensionais \- Vetores  1\. Faça um programa que preencha automaticamente (use uma estrutura de repetição) um vetor numérico com 8 posições, conforme abaixo:
+1. Faça um programa que preencha automaticamente (use uma estrutura de repetição) um vetor numérico com 8 posições, conforme abaixo:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 999 | 999 | 999 | 999 | 999 | 999 | 999 | 999 |
 
    
-2\. Crie um programa que preencha automaticamente (use uma estrutura de repetição) um vetor numérico com 10 posições, conforme abaixo:
+2. Crie um programa que preencha automaticamente (use uma estrutura de repetição) um vetor numérico com 10 posições, conforme abaixo:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 |
 
    
-3\. Crie um programa que preencha automaticamente (use uma estrutura de repetição) um vetor numérico com 10 posições, conforme abaixo:
+3. Crie um programa que preencha automaticamente (use uma estrutura de repetição) um vetor numérico com 10 posições, conforme abaixo:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
 
    
-4\. Crie um programa que preencha automaticamente (use uma estrutura de repetição) um vetor numérico com 10 posições, conforme abaixo:
+4. Crie um programa que preencha automaticamente (use uma estrutura de repetição) um vetor numérico com 10 posições, conforme abaixo:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 5 | 3 | 5 | 3 | 5 | 3 | 5 | 3 | 5 | 3 |
 
-   
-5\. Faça um programa que leia 7 nomes de pessoas e guarde-os em um vetor. No final, mostre uma listagem com todos os nomes informados, na ordem inversa daquela em que eles foram informados.
 
-6\. Desenvolva um programa que leia 10 números inteiros e guarde-os em um vetor. No final, mostre quais são os números pares que foram digitados e em que posições eles estão armazenados.
+5. Faça um programa que leia 7 nomes de pessoas e guarde-os em um vetor. No final, mostre uma listagem com todos os nomes informados, na ordem inversa daquela em que eles foram informados.
 
-7\. Faça um programa que leia 10 números inteiros e armazene em um vetor. Após, some estes valores e mostre o resultado.
+6. Desenvolva um programa que leia 10 números inteiros e guarde-os em um vetor. No final, mostre quais são os números pares que foram digitados e em que posições eles estão armazenados.
 
-8\. Crie um programa que leia as notas de uma turma de 10 alunos. Guarde-as em um vetor, calcule a média da turma e conte quantos alunos obtiveram nota acima desta média calculada. Escrever a média da turma e o resultado da contagem. 
+7. Faça um programa que leia 10 números inteiros e armazene em um vetor. Após, some estes valores e mostre o resultado.
 
-9\. Crie um programa onde um usuário deverá informar os dados de altura e sexo de 10 pessoas. Imprima na tela quantas pessoas são do sexo masculino e quantas pessoas são do sexo feminino. Mostre também qual é a maior altura e se essa altura é de um homem ou uma mulher.	
+8. Crie um programa que leia as notas de uma turma de 10 alunos. Guarde-as em um vetor, calcule a média da turma e conte quantos alunos obtiveram nota acima desta média calculada. Escrever a média da turma e o resultado da contagem. 
+
+9. Crie um programa onde um usuário deverá informar os dados de altura e sexo de 10 pessoas. Imprima na tela quantas pessoas são do sexo masculino e quantas pessoas são do sexo feminino. Mostre também qual é a maior altura e se essa altura é de um homem ou uma mulher.	
