@@ -1,2 +1,2 @@
 # exercicios-java-ads
-Exercícios feitos em aula
+Todos os Exercícios De Programação que fiz em aula
