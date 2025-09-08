@@ -1,2 +1,2 @@
 # exercicios-java-ads
-Todos os Exercícios De Programação que fiz em aula
+Exercicios feitos em programação e ppi's feitas durante o curso
