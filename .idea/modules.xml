@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/programacao-1/1-EstruturasSequenciais/1-EstruturasSequenciais.iml" filepath="$PROJECT_DIR$/programacao-1/1-EstruturasSequenciais/1-EstruturasSequenciais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicios-java-ads.iml" filepath="$PROJECT_DIR$/.idea/exercicios-java-ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ppi's/ppi's.iml" filepath="$PROJECT_DIR$/ppi's/ppi's.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programacao-1/programacao-1.iml" filepath="$PROJECT_DIR$/programacao-1/programacao-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programacao-2/programacao-2.iml" filepath="$PROJECT_DIR$/programacao-2/programacao-2.iml" />
+    </modules>
+  </component>
+</project>
