@@ -8,3 +8,7 @@ public class ex11 {
 
     }
 }
+
+
+vetor[i]= 0
+digite novamente
