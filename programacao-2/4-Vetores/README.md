@@ -52,3 +52,6 @@
 
 15\. Faça um algoritmo que preencha um vetor de 30 posições com números entre 1 e 15 sorteados pelo computador. Depois disso, peça para o usuário digitar um número (chave) e seu programa deve mostrar em que posições essa chave foi encontrada. Mostre também quantas vezes a chave foi sorteada.
 
+16\. Faça um programa que leia o nome, a idade e o time de 5 alunos, e armazene estas informações em 3 vetores (um vetor nome, um vetor idade e um vetor time). Ao final, o programa deverá escrever o nome, a idade e o time do aluno mais novo e também o nome, a idade e o time do aluno mais velho.
+
+17\. Crie um programa que leia o nome e a quantidade de votos de 3 candidatos em uma eleição, guardando essas informações em vetores. Escreva um código que determine e exiba o nome do candidato vencedor (aquele com o maior número de votos). Considere que não haverá empate.

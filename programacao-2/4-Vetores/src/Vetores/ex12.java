@@ -1,6 +1,4 @@
 package src.Vetores;
-
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ex12 {
@@ -30,7 +28,6 @@ public class ex12 {
             for (int num : vetor) {
                 System.out.print(num + " ");
             }
-            System.out.println();
 
             scanner.close();
         }
