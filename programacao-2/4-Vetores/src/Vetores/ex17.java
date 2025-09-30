@@ -26,7 +26,7 @@ public class ex17 {
                     }
                 }
 
-                System.out.println("O candidato vencedor é: " + nomes[indiceVencedor]);
+                System.out.println("O vencedor é: " + nomes[indiceVencedor]);
 
                 scanner.close();
             }
