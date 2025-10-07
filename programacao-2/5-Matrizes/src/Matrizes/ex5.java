@@ -22,6 +22,8 @@ public class ex5 {
                 matriz[i][j] = sc.nextInt();
             }
         }
+        System.out.println();
+
         // procura  o x
         boolean encontrado = false;
         for (int i = 0; i < matriz.length; i++) {
@@ -35,6 +37,15 @@ public class ex5 {
             }
             if (encontrado) break;  // para tudo
         }
+
+        //exibe
+        for (int i = 0; i < matriz.length; i++) {
+            for (int j = 0; j < matriz.length; j++) {
+                System.out.print(matriz[i][j] + " ");
+            }
+            System.out.println();
+        }
+        System.out.println();
 
         //  o resultado
         if (encontrado) {
