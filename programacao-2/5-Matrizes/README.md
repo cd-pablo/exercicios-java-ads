@@ -16,4 +16,9 @@
 
 8\. Leia uma matriz de 3 x 3 elementos. Calcule a soma dos elementos que estão abaixo da diagonal principal.
 
+9\. Leia uma matriz de 3 x 3 elementos. Calcule a soma dos elementos que estão na diagonal principal.
+
+10\. Gere uma matriz 4 x 4 com valores aleatórios no intervalo [1, 20]. Escreva um programa que transforme a matriz gerada numa matriz triangular inferior, ou seja, atribuindo zero a todos os elementos acima da diagonal principal. Imprima a matriz original e a matriz transformada.
+
+
 
