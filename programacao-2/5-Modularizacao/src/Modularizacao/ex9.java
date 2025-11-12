@@ -1,5 +1,4 @@
 package src.Modularizacao;
 
-public class ex8 {
-
-    }
+public class ex9 {
+}
