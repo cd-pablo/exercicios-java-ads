@@ -3,7 +3,7 @@ package src.Modularizacao;
 public class ex1 {
     public static void main(String[] args) {
 
-        System.out.println(maior(14, 3));
+        System.out.println(" O maior número é"+maior(14, 3));
 
     }
 
